@@ -1,6 +1,9 @@
-- 👋 Hi, I’m Leo
-- I'm a beginner programmer. I'm looking to improve by creating small projects for myself.
-- I mainly code in Java, though I also want to learn more Python
+![LeoGH](https://user-images.githubusercontent.com/88405502/172022264-95ea09e9-31bb-44ad-862e-cae54b430db7.svg)
+
+- 💻Currently studying Computer Science
+- 📈Trying to improve my coding skills with small projects
+- ☕My main language is Java
+- 🐍I'm also trying to learn Python
 
 <!---
 TisLeo/TisLeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
