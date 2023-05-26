@@ -6,7 +6,7 @@
 
 <!-- Languages -->
 <p align="center">
-<img src="https://img.shields.io/badge/Go-222535?style=for-the-badge&logo=go&logoColor=C44C4C"> <img src="https://img.shields.io/badge/Java-222535?style=for-the-badge&logo=oracle&logoColor=C44C4C"> <img src="https://img.shields.io/badge/Kotlin-222535?style=for-the-badge&logo=kotlin&logoColor=C44C4C"> <img src="https://img.shields.io/badge/Python-222535?style=for-the-badge&logo=python&logoColor=C44C4C"> <img src="https://img.shields.io/badge/sql-222535?style=for-the-badge&logo=sqlite&logoColor=C44C4C">
+<img src="https://img.shields.io/badge/Go-222535?style=for-the-badge&logo=go&logoColor=C44C4C"> <img src="https://img.shields.io/badge/Java-222535?style=for-the-badge&logo=oracle&logoColor=C44C4C"> <img src="https://img.shields.io/badge/JavaScript-222535?style=for-the-badge&logo=javascript&logoColor=C44C4C"> <img src="https://img.shields.io/badge/TypeScript-222535?style=for-the-badge&logo=typescript&logoColor=C44C4C"> <img src="https://img.shields.io/badge/Kotlin-222535?style=for-the-badge&logo=kotlin&logoColor=C44C4C"> <img src="https://img.shields.io/badge/Python-222535?style=for-the-badge&logo=python&logoColor=C44C4C"> <img src="https://img.shields.io/badge/sql-222535?style=for-the-badge&logo=sqlite&logoColor=C44C4C">
 </p>
 
 <!-- Apps/Programs -->
@@ -16,7 +16,7 @@
 
 <!-- Other tools -->
 <p align="center">
-<img src="https://img.shields.io/badge/gradle-222535?style=for-the-badge&logo=gradle&logoColor=C44C4C"> <img src="https://img.shields.io/badge/maven-222535?style=for-the-badge&logo=apache%20maven&logoColor=C44C4C"> <img src="https://img.shields.io/badge/digital_ocean_vps-222535?style=for-the-badge&logo=digitalocean&logoColor=C44C4C"> <img src="https://img.shields.io/badge/git-222535?style=for-the-badge&logo=git&logoColor=C44C4C">
+<img src="https://img.shields.io/badge/gradle-222535?style=for-the-badge&logo=gradle&logoColor=C44C4C"> <img src="https://img.shields.io/badge/maven-222535?style=for-the-badge&logo=apache%20maven&logoColor=C44C4C"> <img src="https://img.shields.io/badge/digital_ocean_vps-222535?style=for-the-badge&logo=digitalocean&logoColor=C44C4C"> <img src="https://img.shields.io/badge/git-222535?style=for-the-badge&logo=git&logoColor=C44C4C"> <img src="https://img.shields.io/badge/Svelte-222535?style=for-the-badge&logo=svelte&logoColor=C44C4C">
 </p>
 
 ## <p align="center">My Laptop (it's slowly dying and needs desperate help)</p>
