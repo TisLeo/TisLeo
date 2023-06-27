@@ -1,6 +1,7 @@
 ![LeoGH](https://user-images.githubusercontent.com/88405502/172062181-f94096b5-50f5-406d-b41e-37e661ecebfa.svg)
 
 <p align="center">A Computer Science student doing some small personal projects for fun.</p>
+<p align="center">You can contact me on <a href="https://discord.com/invite/yx3gkv6Why">discord</a>.</p>
 
 ## <p align="center">Some Languages & Tools I've worked with</p>
 
