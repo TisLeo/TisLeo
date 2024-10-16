@@ -16,7 +16,7 @@
 
 <!-- Other tools -->
 <p align="center">
-<img src="https://img.shields.io/badge/Svelte-222535?style=for-the-badge&logo=svelte&logoColor=C44C4C"> <img src="https://img.shields.io/badge/Next.js-222535?style=for-the-badge&logo=next.js&logoColor=C44C4C"> <img src="https://img.shields.io/badge/gradle-222535?style=for-the-badge&logo=gradle&logoColor=C44C4C"> <img src="https://img.shields.io/badge/maven-222535?style=for-the-badge&logo=apache%20maven&logoColor=C44C4C"> <img src="https://img.shields.io/badge/digital_ocean-222535?style=for-the-badge&logo=digitalocean&logoColor=C44C4C"> <img src="https://img.shields.io/badge/git-222535?style=for-the-badge&logo=git&logoColor=C44C4C">
+<img src="https://img.shields.io/badge/React-222535?style=for-the-badge&logo=react&logoColor=C44C4C"> <img src="https://img.shields.io/badge/Next.js-222535?style=for-the-badge&logo=next.js&logoColor=C44C4C"> <img src="https://img.shields.io/badge/gradle-222535?style=for-the-badge&logo=gradle&logoColor=C44C4C"> <img src="https://img.shields.io/badge/maven-222535?style=for-the-badge&logo=apache%20maven&logoColor=C44C4C"> <img src="https://img.shields.io/badge/digital_ocean-222535?style=for-the-badge&logo=digitalocean&logoColor=C44C4C"> <img src="https://img.shields.io/badge/git-222535?style=for-the-badge&logo=git&logoColor=C44C4C">
 </p>
 
 ## <p align="center">GitHub Stats</p>
